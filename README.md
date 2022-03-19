@@ -1,6 +1,6 @@
 # Welcome!
 
-This repository is a test run example of how to use Github and git.
+This repository is a test example of how to use Github and git.
 
 This is where most of the instructions on how to use your application are stored and documented.
 
@@ -18,4 +18,9 @@ Today we'll go over the following things:
  Steps to get started:
  1. Get signed up with github - make sure to make note of your email address you sign up with, you'll need it later
  2. Download VSCode and Git to make changes on your local machine
+
+
+ this is a test
  
+ testing
+
